@@ -6,28 +6,28 @@ title: GaryC
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Majored in CE
+role: hello_world
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: CUHK-SZ
-  url: https://www.cuhk.edu.cn/
+- name: Hello_worlD
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My bio hello world, hello world
 
 # Interests to show in About widget
 interests:
-- Game Development
-- Blockchain
-- Digital Twin
+- AMD YES
+- INTEL YES
+- NVIDIA YES
 
 # Education to show in About widget
 education:
   courses:
-  - course: BEng in Computer Engineering
-    institution: The Chinese University of Hong Kong, Shenzhen
-    year: 2023
+  - course: hello_world
+    institution: hello_world
+    year: hello_world
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +45,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/igarycc
+  link: https://github.com/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
